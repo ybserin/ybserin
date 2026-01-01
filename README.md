@@ -8,8 +8,6 @@ Currently securing infrastructure at Cybele and actively **hunting flags in CTFs
 
 ---
 
----
-
 ### 🛡️ Areas of Interest
 - **Offensive Security:** Penetration Testing, Red Teaming Operations
 - **Reverse Engineering:** Malware Analysis, Mobile App Security (Android)
