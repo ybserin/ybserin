@@ -2,7 +2,11 @@
 
 🚀 **Cyber Security Analyst @ [Cybele](https://cybeletr.com)** | 🎓 **Cyber Security Student @ ITU**
 
-I am a security practitioner passionate about **Cyber Threat Intelligence (CTI)**, **Offensive Security**, and **Reverse Engineering**. Currently securing infrastructure at Cybele and hunting flags in CTFs.
+I am a security practitioner **building a Purple Team skill set**, aiming to bridge the gap between offensive and defensive security. I have a strong passion for **Cyber Threat Intelligence (CTI)**, **Reverse Engineering**, and **Malware Analysis**.
+
+Currently securing infrastructure at Cybele and actively **hunting flags in CTFs** to sharpen my offensive capabilities.
+
+---
 
 ---
 
