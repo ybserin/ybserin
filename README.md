@@ -1,10 +1,10 @@
-### Selam, ben Mehmet Yusuf! 👋 | Cyber Security Enthusiast 🛡️
+### Hi there, I'm Mehmet Yusuf! 👋 | Cyber Security Enthusiast 🛡️
 
-İTÜ'de Siber Güvenlik öğrencisiyim ve **Cybele**'de siber güvenlik alanında çalışıyorum.
+I am a Cyber Security student at **Istanbul Technical University (ITU)** and currently working at **Cybele**.
 
-- 🔭 Şu an **Penetration Testing, Reverse Engineering ve Malware Analizi** üzerine odaklanıyorum.
-- 🌱 **Python, Bash ve C** ile tool geliştirme ve otomasyon üzerine çalışıyorum.
-- ⚡ **Fun fact:** Bazen dersi kaçırırım ama flag'i asla kaçırmam. ;)
+- 🔭 I’m currently focusing on **Penetration Testing, Reverse Engineering, and Malware Analysis**.
+- 🌱 Learning and developing tools with **Python, Bash, and C**.
+- ⚡ **Fun fact:** I might miss a lecture, but I never miss a flag. ;)
 
 ---
 
