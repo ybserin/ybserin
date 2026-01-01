@@ -1,6 +1,6 @@
 ### Hi there, I'm Mehmet Yusuf Serin! 👋
 
-🚀 **Cyber Security Analyst @ [Cybele](https://www.cybeletr.com)** | 🎓 **Cyber Security Student @ ITU**
+🚀 **Cyber Security Analyst @ [Cybele](https://cybeletr.com)** | 🎓 **Cyber Security Student @ ITU**
 
 I am a security practitioner passionate about **Cyber Threat Intelligence (CTI)**, **Offensive Security**, and **Reverse Engineering**. Currently securing infrastructure at Cybele and hunting flags in CTFs.
 
