@@ -54,7 +54,8 @@ I am a security practitioner passionate about **Cyber Threat Intelligence (CTI)*
 - **Red Team Associate:** EC-Council (Ongoing)
 - **CAPT:** Hackviser (Ongoing)
 - **Networking Basics & Python Essentials:** Cisco Networking Academy
+- **ICIP (Introduction to CIP):** : OPSWAT Academy (Ongoing)
 
 ---
 
-📫 **Reach me at:** [Linkedin](https://www.linkedin.com/in/mehmet-yusuf-serin/) | myserin123@outlook.com
+📫 **Reach me at:** [Linkedin](https://www.linkedin.com/in/mehmet-yusuf-serin/) | mehmetyusufserin.tr@gmail.com
